@@ -1,0 +1,17 @@
+@import url("../styles/leaflet.css");
+@import url("../styles/L.Control.Layers.Tree.css");
+@import url("../styles/L.Control.Locate.min.css");
+@import url("../styles/qgis2web.css");
+@import url("../styles/fontawesome-all.min.css");
+@import url("../styles/leaflet-search.css");
+@import url("../styles/filter.css");
+@import url("../styles/nouislider.min.css");
+@import url("../styles/leaflet-measure.css");
+
+
+html, body, #map {
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        margin: 0;}
+    
